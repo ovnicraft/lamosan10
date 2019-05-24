@@ -7,3 +7,8 @@
 	path = OCA/manufacture
 	url = git@github.com:OCA/manufacture.git
 	branch = 10.0
+
+[submodule "OCA/stock-logistics-tracking"]
+	path = OCA/stock-logistics-tracking
+	url = git@github.com:OCA/stock-logistics-tracking.git
+	branch = 10.0
