@@ -25,3 +25,8 @@
 [submodule "odooec"]
 	path = odooec
 	url = git@github.com:ovnicraft/odooec.git
+
+[submodule "OCA/stock-logistics-warehouse"]
+	path = OCA/stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 10.0
