@@ -12,3 +12,8 @@
 	path = OCA/stock-logistics-tracking
 	url = git@github.com:OCA/stock-logistics-tracking.git
 	branch = 10.0
+
+[submodule "OCA/stock-logistics-workflow"]
+	path = OCA/stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 10.0
