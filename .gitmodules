@@ -22,3 +22,6 @@
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
 	branch = 10.0
+[submodule "odooec"]
+	path = odooec
+	url = git@github.com:ovnicraft/odooec.git
