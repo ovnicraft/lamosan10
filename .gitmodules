@@ -5,7 +5,7 @@
 
 [submodule "OCA/manufacture"]
 	path = OCA/manufacture
-	url = git@github.com:OCA/manufacture.git
+	url = git@github.com:ovnicraft/manufacture.git
 	branch = 10.0
 
 [submodule "OCA/stock-logistics-tracking"]
