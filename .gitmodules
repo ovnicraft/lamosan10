@@ -35,3 +35,6 @@
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 10.0
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:ovnicraft/product-attribute.git
